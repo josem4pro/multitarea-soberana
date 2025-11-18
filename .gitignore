@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Test coverage
+coverage/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
