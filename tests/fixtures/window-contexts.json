@@ -1,0 +1,39 @@
+{
+  "noWindows": {
+    "currentWorkspace": 8,
+    "app": "chrome",
+    "existingWindows": []
+  },
+  "windowsInOtherWorkspaces": {
+    "currentWorkspace": 8,
+    "app": "chrome",
+    "existingWindows": [
+      { "workspace": 1, "minimized": false },
+      { "workspace": 3, "minimized": false }
+    ]
+  },
+  "windowInCurrentWorkspace": {
+    "currentWorkspace": 8,
+    "app": "firefox",
+    "existingWindows": [
+      { "workspace": 8, "minimized": false }
+    ]
+  },
+  "minimizedInCurrentWorkspace": {
+    "currentWorkspace": 8,
+    "app": "terminal",
+    "existingWindows": [
+      { "workspace": 8, "minimized": true }
+    ]
+  },
+  "multipleWindows": {
+    "currentWorkspace": 8,
+    "app": "vscode",
+    "existingWindows": [
+      { "workspace": 1, "minimized": false },
+      { "workspace": 8, "minimized": false },
+      { "workspace": 8, "minimized": true },
+      { "workspace": 3, "minimized": false }
+    ]
+  }
+}

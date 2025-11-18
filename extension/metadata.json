@@ -1,0 +1,11 @@
+{
+  "uuid": "multitarea-soberana@local",
+  "name": "Multitarea Soberana",
+  "description": "Control total de workspaces: forzar apps al workspace actual y evitar cambios automáticos de workspace.",
+  "version": "1.0",
+  "shell-version": [
+    "46",
+    "47"
+  ],
+  "url": "https://github.com/josem4pro/multitarea-soberana"
+}
